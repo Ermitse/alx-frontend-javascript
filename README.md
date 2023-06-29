@@ -1,0 +1,2 @@
+Short specialization - Frontend
+Javascript
